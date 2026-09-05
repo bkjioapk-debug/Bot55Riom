@@ -25,7 +25,7 @@ from aiogram.types import (
 # ==============================================================================
 BOT_TOKEN = "8901779454:AAHj7WkKeaDsiBOD74YA5-wthT745uNg2iQ"
 BOT_USERNAME = "@RiomKeybk_bot"
-ADMIN_ID = 8823416098
+ADMIN_ID = 8489456191
 ADMIN_CONTACT = "@Riombk"
 
 FAMPAY_API_KEY = "YOUR_FAMPAY_API_KEY"  # Replace with your actual API key
