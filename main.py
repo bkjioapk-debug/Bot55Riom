@@ -23,8 +23,8 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "8969872531:AAEoCDXYQYWVMWtYdxm34vKyVe1Ixxl6-sQ"
-BOT_USERNAME = "@Riomkeysall_bot"
+BOT_TOKEN = "8901779454:AAHj7WkKeaDsiBOD74YA5-wthT745uNg2iQ"
+BOT_USERNAME = "@RiomKeybk_bot"
 ADMIN_ID = 8823416098
 ADMIN_CONTACT = "@Riombk"
 
